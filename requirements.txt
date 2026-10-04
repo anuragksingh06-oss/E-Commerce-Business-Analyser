@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+kaleido
+jupyter
+streamlit
+openpyxl
+fpdf2
+flask
+flask-cors
